@@ -1,0 +1,21 @@
+{
+  "name": "TS-Sports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "bulma-carousel": "^4.0.4"
+  },
+  "liveSassCompile.settings.formats": {
+    "format": "compressed",
+    "extensionName": ".min.css",
+    "savePath": "~/../css/"
+  }
+}
